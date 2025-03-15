@@ -1,0 +1,285 @@
+2025-03-15 11:18:28,011 - INFO - Firebase initialized successfully
+2025-03-15 11:18:28,011 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:18:28,110 - INFO - YOLO models loaded successfully
+2025-03-15 11:18:29,094 - INFO - Classification model loaded successfully
+2025-03-15 11:18:29,095 - INFO - Starting waste detection system...
+2025-03-15 11:18:30,227 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:18:30,332 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:18:30,340 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:18:30,347 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:18:30,347 - INFO - Trying camera index 2
+2025-03-15 11:18:30,471 - INFO - Successfully opened camera 2
+2025-03-15 11:18:30,471 - INFO - Entering main detection loop
+2025-03-15 11:18:30,519 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:18:30,519 - INFO - Machine status: idle
+2025-03-15 11:18:30,519 - INFO - No active session
+2025-03-15 11:31:20,368 - INFO - Program interrupted by user
+2025-03-15 11:31:20,544 - INFO - Machine status set to offline
+2025-03-15 11:31:20,544 - INFO - Waste detection system shut down
+2025-03-15 11:31:20,545 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:31:20,546 - INFO - Machine status: offline
+2025-03-15 11:33:52,138 - INFO - Firebase initialized successfully
+2025-03-15 11:33:52,138 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:33:52,238 - INFO - YOLO models loaded successfully
+2025-03-15 11:33:53,342 - INFO - Classification model loaded successfully
+2025-03-15 11:33:53,343 - INFO - Starting waste detection system...
+2025-03-15 11:33:54,888 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:33:55,057 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:33:55,063 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:33:55,070 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:33:55,070 - INFO - Trying camera index 2
+2025-03-15 11:33:55,169 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:33:55,169 - INFO - Machine status: idle
+2025-03-15 11:33:55,170 - INFO - No active session
+2025-03-15 11:33:55,189 - INFO - Successfully opened camera 2
+2025-03-15 11:33:55,189 - INFO - Entering main detection loop
+2025-03-15 11:34:05,286 - ERROR - Failed to capture frame
+2025-03-15 11:34:05,565 - INFO - Machine status set to offline
+2025-03-15 11:34:05,565 - INFO - Waste detection system shut down
+2025-03-15 11:34:05,566 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:05,568 - INFO - Machine status: offline
+2025-03-15 11:34:05,568 - INFO - No active session
+2025-03-15 11:34:16,911 - INFO - Firebase initialized successfully
+2025-03-15 11:34:16,911 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:17,011 - INFO - YOLO models loaded successfully
+2025-03-15 11:34:18,105 - INFO - Classification model loaded successfully
+2025-03-15 11:34:18,105 - INFO - Starting waste detection system...
+2025-03-15 11:34:20,365 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:20,558 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:34:20,564 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:20,568 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:20,569 - INFO - Trying camera index 2
+2025-03-15 11:34:20,688 - INFO - Successfully opened camera 2
+2025-03-15 11:34:20,689 - INFO - Entering main detection loop
+2025-03-15 11:34:20,691 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:20,691 - INFO - Machine status: idle
+2025-03-15 11:34:20,691 - INFO - No active session
+2025-03-15 11:34:30,816 - ERROR - Failed to capture frame
+2025-03-15 11:34:31,070 - INFO - Machine status set to offline
+2025-03-15 11:34:31,070 - INFO - Waste detection system shut down
+2025-03-15 11:34:31,073 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:31,073 - INFO - Machine status: offline
+2025-03-15 11:34:40,458 - INFO - Firebase initialized successfully
+2025-03-15 11:34:40,459 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:40,562 - INFO - YOLO models loaded successfully
+2025-03-15 11:34:41,654 - INFO - Classification model loaded successfully
+2025-03-15 11:34:41,654 - INFO - Starting waste detection system...
+2025-03-15 11:34:42,775 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:42,885 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:34:42,891 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:42,897 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:42,897 - INFO - Trying camera index 2
+2025-03-15 11:34:43,003 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:34:43,003 - INFO - Machine status: idle
+2025-03-15 11:34:43,003 - INFO - No active session
+2025-03-15 11:34:43,016 - INFO - Successfully opened camera 2
+2025-03-15 11:34:43,016 - INFO - Entering main detection loop
+2025-03-15 11:34:53,112 - ERROR - Failed to capture frame
+2025-03-15 11:34:53,270 - INFO - Machine status set to offline
+2025-03-15 11:34:53,270 - INFO - Waste detection system shut down
+2025-03-15 11:37:38,277 - INFO - Firebase initialized successfully
+2025-03-15 11:37:38,277 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:37:38,376 - INFO - YOLO models loaded successfully
+2025-03-15 11:37:39,504 - INFO - Classification model loaded successfully
+2025-03-15 11:37:49,036 - INFO - Firebase initialized successfully
+2025-03-15 11:37:49,036 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:37:49,137 - INFO - YOLO models loaded successfully
+2025-03-15 11:37:50,212 - INFO - Classification model loaded successfully
+2025-03-15 11:38:37,388 - INFO - Firebase initialized successfully
+2025-03-15 11:38:37,389 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:38:37,493 - INFO - YOLO models loaded successfully
+2025-03-15 11:38:38,592 - INFO - Classification model loaded successfully
+2025-03-15 11:38:38,592 - INFO - Starting waste detection system...
+2025-03-15 11:38:39,839 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:38:40,005 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:38:40,011 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:38:40,015 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:38:40,015 - INFO - Trying camera index 2
+2025-03-15 11:38:40,135 - INFO - Successfully opened camera 2
+2025-03-15 11:38:40,136 - INFO - Entering main detection loop
+2025-03-15 11:38:40,143 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:38:40,143 - INFO - Machine status: idle
+2025-03-15 11:38:40,143 - INFO - No active session
+2025-03-15 11:38:50,230 - ERROR - Failed to capture frame
+2025-03-15 11:38:50,595 - INFO - Machine status set to offline
+2025-03-15 11:38:50,595 - INFO - Waste detection system shut down
+2025-03-15 11:39:02,950 - INFO - Firebase initialized successfully
+2025-03-15 11:39:02,950 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:03,052 - INFO - YOLO models loaded successfully
+2025-03-15 11:39:04,030 - INFO - Classification model loaded successfully
+2025-03-15 11:39:04,030 - INFO - Starting waste detection system...
+2025-03-15 11:39:06,171 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:06,293 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:39:06,301 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:06,306 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:06,306 - INFO - Trying camera index 2
+2025-03-15 11:39:06,422 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:06,422 - INFO - Machine status: idle
+2025-03-15 11:39:06,422 - INFO - No active session
+2025-03-15 11:39:06,427 - INFO - Successfully opened camera 2
+2025-03-15 11:39:06,427 - INFO - Entering main detection loop
+2025-03-15 11:39:16,522 - ERROR - Failed to capture frame
+2025-03-15 11:39:16,868 - INFO - Machine status set to offline
+2025-03-15 11:39:16,868 - INFO - Waste detection system shut down
+2025-03-15 11:39:16,869 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:16,870 - INFO - Machine status: offline
+2025-03-15 11:39:40,250 - INFO - Firebase initialized successfully
+2025-03-15 11:39:40,250 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:40,350 - INFO - YOLO models loaded successfully
+2025-03-15 11:39:41,329 - INFO - Classification model loaded successfully
+2025-03-15 11:39:41,329 - INFO - Starting waste detection system...
+2025-03-15 11:39:42,985 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:43,097 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:39:43,103 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:43,110 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:43,110 - INFO - Trying camera index 2
+2025-03-15 11:39:43,234 - INFO - Successfully opened camera 2
+2025-03-15 11:39:43,234 - INFO - Entering main detection loop
+2025-03-15 11:39:43,311 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:39:43,311 - INFO - Machine status: idle
+2025-03-15 11:39:43,311 - INFO - No active session
+2025-03-15 11:39:53,348 - ERROR - Failed to capture frame
+2025-03-15 11:39:53,523 - INFO - Machine status set to offline
+2025-03-15 11:39:53,523 - INFO - Waste detection system shut down
+2025-03-15 11:42:08,051 - INFO - Firebase initialized successfully
+2025-03-15 11:42:08,051 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:42:08,306 - INFO - YOLO models loaded successfully
+2025-03-15 11:42:11,262 - INFO - Classification model loaded successfully
+2025-03-15 11:42:11,262 - INFO - Starting waste detection system...
+2025-03-15 11:42:11,262 - ERROR - Failed to get IP address: [Errno 101] Network is unreachable
+2025-03-15 11:43:00,309 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:43:00,486 - INFO - Machine registered with IP: Unknown
+2025-03-15 11:43:00,498 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:43:00,517 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:43:00,517 - INFO - Trying camera index 2
+2025-03-15 11:43:00,638 - INFO - Successfully opened camera 2
+2025-03-15 11:43:00,639 - INFO - Entering main detection loop
+2025-03-15 11:43:00,741 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:43:00,741 - INFO - Machine status: idle
+2025-03-15 11:43:00,742 - INFO - No active session
+2025-03-15 11:43:10,864 - ERROR - Failed to capture frame
+2025-03-15 11:43:11,083 - INFO - Machine status set to offline
+2025-03-15 11:43:11,083 - INFO - Waste detection system shut down
+2025-03-15 11:43:37,428 - INFO - Firebase initialized successfully
+2025-03-15 11:43:37,428 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:43:37,519 - INFO - YOLO models loaded successfully
+2025-03-15 11:43:39,035 - INFO - Classification model loaded successfully
+2025-03-15 11:43:39,036 - INFO - Starting waste detection system...
+2025-03-15 11:43:40,430 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:43:40,570 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:43:40,577 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:43:40,596 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:43:40,597 - INFO - Trying camera index 2
+2025-03-15 11:43:40,720 - INFO - Successfully opened camera 2
+2025-03-15 11:43:40,721 - INFO - Entering main detection loop
+2025-03-15 11:43:40,829 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:43:40,829 - INFO - Machine status: idle
+2025-03-15 11:43:40,829 - INFO - No active session
+2025-03-15 11:43:50,912 - ERROR - Failed to capture frame
+2025-03-15 11:43:51,034 - INFO - Machine status set to offline
+2025-03-15 11:43:51,035 - INFO - Waste detection system shut down
+2025-03-15 11:44:03,083 - INFO - Firebase initialized successfully
+2025-03-15 11:44:03,083 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:44:03,173 - INFO - YOLO models loaded successfully
+2025-03-15 11:44:04,653 - INFO - Classification model loaded successfully
+2025-03-15 11:44:04,653 - INFO - Starting waste detection system...
+2025-03-15 11:44:06,220 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:44:06,334 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:44:06,340 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:44:06,357 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:44:06,357 - INFO - Trying camera index 2
+2025-03-15 11:44:06,477 - INFO - Successfully opened camera 2
+2025-03-15 11:44:06,478 - INFO - Entering main detection loop
+2025-03-15 11:44:06,556 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:44:06,557 - INFO - Machine status: idle
+2025-03-15 11:44:06,557 - INFO - No active session
+2025-03-15 11:44:16,640 - ERROR - Failed to capture frame
+2025-03-15 11:44:16,843 - INFO - Machine status set to offline
+2025-03-15 11:44:16,844 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:44:16,844 - INFO - Waste detection system shut down
+2025-03-15 11:44:16,844 - INFO - Machine status: offline
+2025-03-15 11:48:35,353 - INFO - Firebase initialized successfully
+2025-03-15 11:48:35,353 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:48:35,470 - INFO - YOLO models loaded successfully
+2025-03-15 11:48:37,209 - INFO - Classification model loaded successfully
+2025-03-15 11:48:37,209 - INFO - Starting waste detection system...
+2025-03-15 11:48:38,656 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:48:39,045 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:48:39,056 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:48:39,069 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:48:39,070 - INFO - Trying camera index 2
+2025-03-15 11:48:39,171 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:48:39,171 - INFO - Machine status: idle
+2025-03-15 11:48:39,171 - INFO - No active session
+2025-03-15 11:48:39,192 - INFO - Successfully opened camera 2
+2025-03-15 11:48:39,192 - INFO - Entering main detection loop
+2025-03-15 11:48:49,386 - ERROR - Failed to capture frame
+2025-03-15 11:48:49,743 - INFO - Machine status set to offline
+2025-03-15 11:48:49,743 - INFO - Waste detection system shut down
+2025-03-15 11:48:49,748 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:48:49,748 - INFO - Machine status: offline
+2025-03-15 11:48:49,748 - INFO - No active session
+2025-03-15 11:50:20,784 - INFO - Firebase initialized successfully
+2025-03-15 11:50:20,784 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:50:20,915 - INFO - YOLO models loaded successfully
+2025-03-15 11:50:22,753 - INFO - Classification model loaded successfully
+2025-03-15 11:50:22,753 - INFO - Starting waste detection system...
+2025-03-15 11:50:23,959 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:50:24,075 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:50:24,081 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:50:24,086 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:50:24,086 - INFO - Trying camera index 2
+2025-03-15 11:50:24,205 - INFO - Successfully opened camera 2
+2025-03-15 11:50:24,205 - INFO - Entering main detection loop
+2025-03-15 11:50:24,222 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:50:24,222 - INFO - Machine status: idle
+2025-03-15 11:50:24,222 - INFO - No active session
+2025-03-15 11:50:34,303 - ERROR - Failed to capture frame
+2025-03-15 11:50:34,461 - INFO - Machine status set to offline
+2025-03-15 11:50:34,462 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:50:34,462 - INFO - Waste detection system shut down
+2025-03-15 11:50:34,462 - INFO - Machine status: offline
+2025-03-15 11:50:34,466 - INFO - No active session
+2025-03-15 11:52:31,639 - INFO - Firebase initialized successfully
+2025-03-15 11:52:31,639 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:52:31,734 - INFO - YOLO models loaded successfully
+2025-03-15 11:52:33,613 - INFO - Classification model loaded successfully
+2025-03-15 11:52:33,614 - INFO - Starting waste detection system...
+2025-03-15 11:52:34,808 - INFO - Updating existing machine record for 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:52:34,941 - INFO - Machine registered with IP: 10.195.117.185
+2025-03-15 11:52:34,948 - INFO - Firebase monitoring started for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:52:34,952 - INFO - QR code generated for machine 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:52:34,952 - INFO - Trying camera index 2
+2025-03-15 11:52:35,071 - INFO - Successfully opened camera 2
+2025-03-15 11:52:35,071 - INFO - Entering main detection loop
+2025-03-15 11:52:35,147 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:52:35,147 - INFO - Machine status: idle
+2025-03-15 11:52:35,147 - INFO - No active session
+2025-03-15 11:54:16,012 - INFO - Program interrupted by user
+2025-03-15 11:54:16,102 - INFO - Machine status set to offline
+2025-03-15 11:54:16,103 - INFO - Received document snapshot: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 11:54:16,104 - INFO - Waste detection system shut down
+2025-03-15 11:54:16,104 - INFO - Machine status: offline
+2025-03-15 11:54:16,107 - INFO - No active session
+2025-03-15 12:03:40,265 - INFO - Firebase initialized successfully
+2025-03-15 12:03:40,265 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 12:03:40,358 - INFO - YOLO models loaded successfully
+2025-03-15 12:03:41,827 - INFO - Classification model loaded successfully
+2025-03-15 12:04:21,595 - INFO - Firebase initialized successfully
+2025-03-15 12:04:21,595 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 12:04:21,690 - INFO - YOLO models loaded successfully
+2025-03-15 12:04:23,179 - INFO - Classification model loaded successfully
+2025-03-15 12:04:23,300 - INFO - Starting waste detection system...
+2025-03-15 12:04:23,300 - INFO - Trying camera index 2
+2025-03-15 12:04:23,413 - INFO - Trying camera index 3
+2025-03-15 12:04:23,414 - INFO - Trying camera index 1
+2025-03-15 12:04:23,415 - ERROR - Could not open any camera!
+2025-03-15 12:04:55,145 - INFO - Firebase initialized successfully
+2025-03-15 12:04:55,145 - INFO - Using machine ID: 1c111ad0-c247-4540-943b-1eba2cdc0314
+2025-03-15 12:04:55,244 - INFO - YOLO models loaded successfully
+2025-03-15 12:04:56,902 - INFO - Classification model loaded successfully
+2025-03-15 12:04:57,023 - INFO - Starting waste detection system...
+2025-03-15 12:04:57,023 - INFO - Trying camera index 2
+2025-03-15 12:04:57,134 - INFO - Trying camera index 3
+2025-03-15 12:04:57,135 - INFO - Trying camera index 1
+2025-03-15 12:04:57,135 - ERROR - Could not open any camera!
