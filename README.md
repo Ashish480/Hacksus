@@ -207,8 +207,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: your.email@example.com
-- **Website**: [yourprojectwebsite.com](https://yourprojectwebsite.com)
+- **Email**: ashishshajan480@gmail.com
+- **Website**: [yourprojectwebsite.com](https://carbon-bytes-32bde.web.app/)
 - **Twitter**: [@projecthandle](https://twitter.com/projecthandle)
 
 ---
